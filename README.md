@@ -10,7 +10,7 @@ This repository contains the practicals from different modules, as well as inter
 - Statistical Learning vs Machine Learning
 - Cross validation
 
-*Including a Shiny app for visualizing KNN-regression*
+*Including an interactive Shiny application that visualizes KNN-regression.*
 
 ## Module 2: Classification
 
@@ -21,7 +21,7 @@ This repository contains the practicals from different modules, as well as inter
 - Logit as a classifier
 - How to choose the "best" model
 
-*Including a Shiny app for visualizing logistic regression, and understanding different accuracy measures.*
+*Including an interactive Shiny application visualizing a fitted logistic regression curve, the decision boundary, and accuracy measures.*
 
 ## Module 3: Regression-based methods
 
@@ -38,7 +38,7 @@ This repository contains the practicals from different modules, as well as inter
 - Bagging & Feature sampling
 - Random forest 
 
-*Including a Shiny app for visualizing how the complexity parameter affects the complexity of a decision tree.*
+*Including an interactive Shiny application that visualizes how the complexity parameter affects the complexity of a decision tree.*
 
 ## Module 5: Advanced Methods
 

@@ -1,6 +1,6 @@
 # Machine Learning For Official Statistics and SDGs
 
-This repository contains the practicals from different modules, as well as interactive tools built in Shiny that can help with understanding the intuition of the methods. These were used during a 6 week long machine learning course for official statistics and SDGs. The code is created by Christophe Bontemps and Patrick Jonsson with help and inspiration from Pascal Lavergne.
+This repository contains the practicals from different modules, as well as interactive tools built in Shiny that can help with understanding the intuition of the methods. These were used during a 6 week long machine learning course for official statistics and SDGs hosted by UN-SIAP. The code is created by Christophe Bontemps and Patrick Jonsson with help and inspiration from Pascal Lavergne.
 
 ## Module 0: You've seen this before
 
